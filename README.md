@@ -12,6 +12,12 @@ Installation
 4. Refresh your [Teacher Story-Tab](http://teacher-story.com/).
 5. Enjoy :)
 
+Updating
+--------
+
+In theory *Study Helper* should recognize a new release automatically via 
+Tampermonkey and offer you to upgrade to the current version.
+
 Contribution
 ------------
 
