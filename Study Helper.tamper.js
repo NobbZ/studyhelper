@@ -17,6 +17,6 @@ console.log("Study Helper v" + shVersion + " started");
 var xpVal	= $(".bar").data("val");
 var xpMax	= $(".bar").data("max");
 
-$(".progressBar.teacherXP").text(xpVal + "/" + xpMax + " (" + (xpMax - xpVal) + ")");
+$(".progressBar.teacherXP").append(xpVal + "/" + xpMax + " (" + (xpMax - xpVal) + ")");
 
 console.log("Study Helper v" + shVersion + " finished");
