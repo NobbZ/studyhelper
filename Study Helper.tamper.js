@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Study Helper
 // @namespace   http://userscript.nobbz.de/
-// @version     0.0.1
+// @version     0.0.2
 // @downloadURL https://github.com/NobbZ/studyhelper/raw/master/Study%20Helper.tamper.js
 // @description A small handfull of helpers for the game teacher-story
 // @match       http://teacher-story.com/
