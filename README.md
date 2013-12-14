@@ -1,4 +1,4 @@
-Study Helper v0.0.2
+Study Helper v0.1.0
 ===================
 
 This small JavaScript makes your life as a teacher easier.
